@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class ChangeMatScript : MonoBehaviour
 {
-
+    //test comment
+    
     //public Material[] myMaterials = new Material[20];
     public Material mat;
     public Texture[] myTextures = new Texture[20];

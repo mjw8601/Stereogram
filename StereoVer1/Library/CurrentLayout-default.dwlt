@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 713}
   m_MaxSize: {x: 14002, y: 18063}
   vertical: 0
-  controlID: 156
+  controlID: 54
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -395,18 +395,18 @@ MonoBehaviour:
       y: 21
       width: 1200
       height: 219
-    m_Scale: {x: 1.0589912, y: 1.0589912}
-    m_Translation: {x: 600, y: 105.39966}
+    m_Scale: {x: 1.0907608, y: 1.0907608}
+    m_Translation: {x: 600, y: 102.375275}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -566.57697
-      y: -99.52836
-      width: 1133.1539
-      height: 206.80058
+      x: -550.07477
+      y: -93.85676
+      width: 1100.1495
+      height: 200.77728
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1200, y: 240}
@@ -444,9 +444,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 48400000
-      m_LastClickedID: 16456
-      m_ExpandedIDs: 4c75fffff275ffff10dfffff14dfffff8edfffff22e7fffffaf6ffff66fbffffbe3800000e3900002c40000042400000
+      m_SelectedIDs: 282c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -556,11 +556,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0014953364, y: -0.043774486, z: 0.00015282622, w: 0.9991203}
     speed: 2
-    m_Value: {x: 0.001494986, y: -0.0452695, z: 0.00015505667, w: 0.9989737}
+    m_Value: {x: 0.001495217, y: -0.04377099, z: 0.00015281401, w: 0.9990405}
   m_Size:
     m_Target: 14.381362
     speed: 2
-    m_Value: 15.059018
+    m_Value: 14.381362
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -650,20 +650,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials/Materials
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Materials/Materials
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\Mason\StereoVer1
+  m_LastProjectPath: D:\Mason\GitHub\Stereogram\StereoVer1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 84380000
-    m_LastClickedID: 14468
-    m_ExpandedIDs: 0000000084370000863700008837000000ca9a3b
+    m_SelectedIDs: 58360000
+    m_LastClickedID: 13912
+    m_ExpandedIDs: 00000000483600004a3600004c36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -691,7 +691,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 800}
     m_SelectedIDs: 84380000
     m_LastClickedID: 14468
-    m_ExpandedIDs: ffffffff0000000084370000863700008e370000
+    m_ExpandedIDs: 00000000483600004a3600004c360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
